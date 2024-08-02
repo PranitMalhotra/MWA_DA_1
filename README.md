@@ -9,7 +9,6 @@ This project involves designing a static web page system for a university techni
 3. **Confirmation Page**: Displays a confirmation message after registration.
 4. **Contact Page**: Offers a form for users to contact the event organizers.
 5. **Registration Fee Calculator Page**: Helps users calculate the registration fee based on the number of participants and event type.
-6. **Registration Details Output Page**: Displays the details of the registration submitted by the user.
 
 ## Page Descriptions
 
@@ -42,12 +41,6 @@ This project involves designing a static web page system for a university techni
 - **Features**:
   - Form to calculate the registration fee based on the number of participants and type of event.
   - Dynamic fee calculation using the `oninput` attribute.
-
-### 6. Registration Details Output Page
-- **Tags Used**: `<h1>`, `<p>`, `<div>`, `<a>`
-- **Features**:
-  - Displays registration details submitted by the user.
-  - Back button to return to the registration form page.
 
 ## License
 
